@@ -4,6 +4,9 @@
 
 DevOps Prototype
 * Understanding DevOps by doing it :-)
+Start
+Felix Änderungen durchgeführt
+Stop
 
 ## Required Tools
 * Git (https://git-scm.com/)
